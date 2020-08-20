@@ -6,5 +6,5 @@ docker run   \
     --rm  \
     --net=host \
     -v /var/run/docker.sock:/var/run/docker.sock \
-    --name ubuntu16.04_base \
-    ubuntu16.04_base
+    --name ubuntu20.04_base \
+    ubuntu20.04_base
